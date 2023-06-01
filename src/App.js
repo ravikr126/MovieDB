@@ -5,8 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar,Container,Nav,Form, FormControl,Button } from 'react-bootstrap';
 
 
-const API_URL="https://api.themoviedb.org/3/movie/popular?api_key=3e54544ea51f3918ea349ad41c314772";
-const API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=3e54544ea51f3918ea349ad41c314772&query";
+const API_URL="https://api.themoviedb.org/3/movie/popular?api_key=KEY";
+const API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=KEY&query";
 
 function App() {
 
